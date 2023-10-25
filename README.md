@@ -21,12 +21,12 @@ This project is designed to explore simultaneous breadbasket droughts across cro
 ## Methods
 ### Climate modes
 We will use climate mode indices calculated from HadISST during the months when the variance is greatest
-	- Niño 3.4 - NDJ ENSO index calculated from HadISST https://psl.noaa.gov/gcos_wgsp/Timeseries/Nino34/
- 		- 0.5 degree C
-   		- to investigate if a shifting trend needs to be removed
-	- IOD - SON IOD index from HadISST https://psl.noaa.gov/gcos_wgsp/Timeseries/DMI/
- 		- to investigate if a shifting trend needs to be removed
-	- SAM - ?
+- Niño 3.4: NDJ ENSO index calculated from HadISST https://psl.noaa.gov/gcos_wgsp/Timeseries/Nino34/
+ 	- 0.5 degree C
+   	- to investigate if a shifting trend needs to be removed
+- IOD: SON IOD index from HadISST https://psl.noaa.gov/gcos_wgsp/Timeseries/DMI/
+ 	- to investigate if a shifting trend needs to be removed
+- SAM: ?
 
 ### Crop yield growing seasons
 Below I outline the crop yield growing seasons for each country and crop with the corresponding GEOGLAM crop calendar listed alongside it. Above each set of countries is a suggested three season climate season to use across all countries with an optional fourth season in brackets
