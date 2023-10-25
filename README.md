@@ -32,19 +32,19 @@ We will use climate mode indices calculated from HadISST during the months when 
 Below I outline the crop yield growing seasons for each country and crop with the corresponding GEOGLAM crop calendar listed alongside it. Above each set of countries is a suggested three season climate season to use across all countries with an optional fourth season in brackets
  
 Maize -(NDJ[F]) <br> 
-- Argentina, - NDJ - Maize 1 <br> 
-- (south) Brazil - NDJ - Maize 2 <br> 
-- South Africa - DJF - Maize 1 <br> 
-- Indonesia? - JF <br> 
+	- Argentina, - NDJ - Maize 1 <br> 
+	- (south) Brazil - NDJ - Maize 2 <br> 
+	- South Africa - DJF - Maize 1 <br> 
+	- Indonesia? - JF <br> 
 
 Wheat - ([J]JAS) <br> 
-- Argentina - JAS - Winter Wheat <br> 
-- Uruguay - MJJAS - Winter Wheat <br> 
-- Brazil - JJAS - Winter Wheat <br> 
-- Australia - JJAS <br> 
+	- Argentina - JAS - Winter Wheat <br> 
+	- Uruguay - MJJAS - Winter Wheat <br> 
+	- Brazil - JJAS - Winter Wheat <br> 
+	- Australia - JJAS <br> 
 
 Soybeans - ([D]JFM) <br> 
-- Argentina - JFM - Soybean 1 <br> 
-- Brazil - DJF <br> 
+	- Argentina - JFM - Soybean 1 <br> 
+	- Brazil - DJF <br> 
 
 
