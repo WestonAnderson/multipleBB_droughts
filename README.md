@@ -35,16 +35,16 @@ Maize -(NDJ[F]) <br>
 	- Argentina, - NDJ - Maize 1 <br> 
 	- (south) Brazil - NDJ - Maize 2 <br> 
 	- South Africa - DJF - Maize 1 <br> 
-	- Indonesia? - JF <br> 
+	- Indonesia? - JF - Maize 1  <br> 
 
 Wheat - ([J]JAS) <br> 
 	- Argentina - JAS - Winter Wheat <br> 
 	- Uruguay - MJJAS - Winter Wheat <br> 
 	- Brazil - JJAS - Winter Wheat <br> 
-	- Australia - JJAS <br> 
+	- Australia - JJAS - Winter Wheat <br> 
 
 Soybeans - ([D]JFM) <br> 
 	- Argentina - JFM - Soybean 1 <br> 
-	- Brazil - DJF <br> 
+	- Brazil - DJF - Soybean 1 <br> 
 
 
