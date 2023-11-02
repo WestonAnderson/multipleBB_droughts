@@ -1,5 +1,8 @@
 # multipleBB_droughts
 
+Running notes document (here)[https://docs.google.com/document/d/1Fb4GTULZtOX-Dy1DbsV4pxdQ7d4-_F4mcNmVYy0adK4/edit]
+
+
 ## Proposed analyses and datasets
 This project is designed to explore simultaneous breadbasket droughts across crop producing regions of the Southern Hemisphere for wheat, maize, and soybeans. We will explore both droughts across countries within a crop and across crops.
 
