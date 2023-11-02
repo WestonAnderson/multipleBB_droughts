@@ -1,6 +1,6 @@
 # multipleBB_droughts
 
-Running notes document (here)[https://docs.google.com/document/d/1Fb4GTULZtOX-Dy1DbsV4pxdQ7d4-_F4mcNmVYy0adK4/edit]
+Running notes document [here](https://docs.google.com/document/d/1Fb4GTULZtOX-Dy1DbsV4pxdQ7d4-_F4mcNmVYy0adK4/edit)
 
 
 ## Proposed analyses and datasets
