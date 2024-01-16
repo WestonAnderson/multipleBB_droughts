@@ -19,6 +19,7 @@ This project is designed to explore simultaneous breadbasket droughts across cro
  - To what extent does ENSO control the likelihood of multiple breadbasket failures?
 	- How strongly does it do so in joint and conditional probability distributions, and what does that say about whether regions are connected by single mechanisms or by collections of influences? Here we would compare the conditional probability of e.g. (A fails | B fails) in ENSO and non-ENSO years.
 		- For example, if ENSO sometimes affects X, which affects A and B country, those would likely co-occur in the conditional probability of A fails given B fails much more frequently than if ENSO sometimes affects X which affects A and sometimes affects Y which affects B. Basically, does ENSO impose correlated risks by uniformly increasing risks with single mechanisms?
+- Is the influence of ENSO on multiple breadbasket failures intensity dependent?
 
 <br> <br> 
 
